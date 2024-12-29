@@ -1,4 +1,4 @@
-Server ID: 95850387
-Renew status: Success
-Last renewal time: 2024-12-27 17:16:18
-New expiration time: 2025-01-10 14:37:51
+Server ID: Unknown
+Renew status: Failed
+Last renewal time: 2024-12-29 01:06:33
+Error: An error occurred: Failed to reach dashboard
